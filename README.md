@@ -1,7 +1,7 @@
 # IBM-Project-14117-1659541364
 A Novel Method for Handwritten Digit Recognition System 
 
-Team Members 
+***Team Members***
  
 Team Lead: Shreyas Srinivasan \
 Member 1 : Sanjay Ram S \
